@@ -15,7 +15,8 @@
 </h1>
 ## 🚀 My Project
 
-<h3> URL SHORTNER USING NEXT JS [🔗 View Demo](https://ns-url.vercel.app/) </h3>
+<h3> URL SHORTNER USING NEXT JS<h3/>
+  🔗 View Demo(https://ns-url.vercel.app/) 
 
 
 
