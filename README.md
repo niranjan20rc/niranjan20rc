@@ -9,28 +9,24 @@
 </p>
 
 <p align="center">
-  Open‑Source Contribution :  NPM  Developer .
+  Open‑Source Contribution : NPM Developer.
 </p>
 
-🔭 Currently building Full‑stack apps with Next.js, MERN Stack .  
-<p>
-BACKEND ENTHUIASTIC
-</p> 
-<p>
-Full Stack Dev : NEXT JS .
-</p>
-<p>
- Front End Dev  : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT .
-</p>
-<p>
- Back End Dev   : JAVA, NODE, EXPRESS, MONGODB, REST API .
-</p>
- <p>
-DEPLOYMENT      : GITHUB, VERCEL, NETLIFY, RENDER .
-<p>  
-📫 Connect with me:<p>[LinkedIn](https://www.linkedin.com/in/niranjan-cse/)</p>
-<p>[LeetCode](https://leetcode.com/u/niranjancse2023/)</p>
+🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
+<p>BACKEND ENTHUSIASTIC</p> 
+<p>Full Stack Dev : NEXT JS.</p>
+<p>Front End Dev : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT.</p>
+<p>Back End Dev : JAVA, NODE, EXPRESS, MONGODB, REST API.</p>
+<p>DEPLOYMENT : GITHUB, VERCEL, NETLIFY, RENDER.</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/niranjan-cse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/niranjancse2023/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -45,15 +41,9 @@ DEPLOYMENT      : GITHUB, VERCEL, NETLIFY, RENDER .
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan20rc&theme=radical" alt="GitHub Streak"/>
 </p>
 
----
-
 ## 📫 Let’s Connect
 
-| Platform    | Link |
-|-------------|------|
-| LinkedIn    | [linkedin.com/in/niranjan-cse](https://www.linkedin.com/in/niranjan-cse/) |
-| LeetCode    | [leetcode.com/u/niranjancse2023](https://leetcode.com/u/niranjancse2023/) |
-
-
----
-
+| Platform | Link |
+|----------|------|
+| LinkedIn | [linkedin.com/in/niranjan-cse](https://www.linkedin.com/in/niranjan-cse/) |
+| LeetCode | [leetcode.com/u/niranjancse2023](https://leetcode.com/u/niranjancse2023/) |
