@@ -12,24 +12,24 @@
   Open‑Source Contribution :  NPM  Developer .
 </p>
 
-🔭 Currently building full‑stack apps with Next.js, MERN Stack .  
+🔭 Currently building Full‑stack apps with Next.js, MERN Stack .  
 <p>
 BACKEND ENTHUIASTIC
 </p> 
 <p>
-Full Stack Dev : NEXT JS.
+Full Stack Dev : NEXT JS .
 </p>
 <p>
- Front End Dev  : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT
+ Front End Dev  : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT .
 </p>
 <p>
- Back End Dev   : JAVA, NODE, EXPRESS, MONGODB, REST API
+ Back End Dev   : JAVA, NODE, EXPRESS, MONGODB, REST API .
 </p>
  <p>
-   Deployment (Netlify/Render/Vercel)
+DEPLOYMENT      : GITHUB, VERCEL, NETLIFY, RENDER .
 <p>  
 📫 Connect with me:<p>[LinkedIn](https://www.linkedin.com/in/niranjan-cse/)</p>
-<p>[LeetCode](https://leetcode.com/u/niranjancse2023/) • GitHub</p>
+<p>[LeetCode](https://leetcode.com/u/niranjancse2023/)</p>
 
 ---
 
