@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-  Open‑Source Contribution : NPM Package .
+  Open‑Source Contribution : NPM Package Developer .
   
 </h1>
 🚀 My Project
