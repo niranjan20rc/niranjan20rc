@@ -18,7 +18,7 @@
 <p>BACKEND ENTHUSIASTIC</p> 
 <p>Full Stack Dev : NEXT JS.</p>
 <p>Front End Dev : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT.</p>
-<p>Back End Dev : JAVA, NODE, EXPRESS, MONGODB, REST API.</p>
+<p>Back End Dev : JAVA, NODE, EXPRESS, MONGO DB, REST API.</p>
 <p>DEPLOYMENT : GITHUB, VERCEL, NETLIFY, RENDER.</p>
 
 <p align="center">
@@ -45,7 +45,6 @@
 
 ## 📫 Let’s Connect
 
-| Platform | Link |
-|----------|------|
-| LinkedIn | [linkedin.com/in/niranjan-cse](https://www.linkedin.com/in/niranjan-cse/) |
-| LeetCode | [leetcode.com/u/niranjancse2023](https://leetcode.com/u/niranjancse2023/) |
+
+ LinkedIn | [linkedin.com/in/niranjan-cse](https://www.linkedin.com/in/niranjan-cse/) 
+ LeetCode | [leetcode.com/u/niranjancse2023](https://leetcode.com/u/niranjancse2023/) 
