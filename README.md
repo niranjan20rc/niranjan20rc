@@ -31,14 +31,12 @@ DEPLOYMENT      : GITHUB, VERCEL, NETLIFY, RENDER .
 📫 Connect with me:<p>[LinkedIn](https://www.linkedin.com/in/niranjan-cse/)</p>
 <p>[LeetCode](https://leetcode.com/u/niranjancse2023/)</p>
 
----
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,nextjs,reactnative,netlify,vercel&theme=light" alt="Skill Icons"/>
 </p>
----
 
 ## 📊 GitHub Stats
 
