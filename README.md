@@ -16,9 +16,9 @@
 ## 🚀 My Project
 
 <h3> URL SHORTNER USING NEXT JS<h3/>
-  🔗 View Demo(https://ns-url.vercel.app/) 
+ <p> 🔗 View Demo https://ns-url.vercel.app </h3>p> 
 
-
+<p></p>
 
 🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
 <p>BACKEND ENTHUSIASTIC</p> 
