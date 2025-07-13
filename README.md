@@ -16,7 +16,8 @@
 
 🔭 Currently building full‑stack apps with Next.js, MERN .  
 🌱 Learning advanced TypeScript.  
-💬 Ask me about HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NODE, EXPRESS, MONGODB, Next.js, REST API, JAVA, Git, deployment (Netlify/Render/Vercel)  
+💬 Ask me about  HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NODE, EXPRESS, MONGODB, Next.js, REST API, JAVA
+<p>Deployment (Netlify/Render/Vercel)<p>  
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/niranjan-cse/) 
   [LeetCode](https://leetcode.com/u/niranjancse2023/) • GitHub
 
