@@ -36,7 +36,7 @@ DEPLOYMENT      : GITHUB, VERCEL, NETLIFY, RENDER .
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,nextjs,reactnative,netlify,render,vercel&theme=light" alt="Skill Icons"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,nextjs,reactnative,netlify,vercel&theme=light" alt="Skill Icons"/>
 </p>
 ---
 
