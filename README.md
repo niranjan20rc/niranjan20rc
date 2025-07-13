@@ -9,9 +9,9 @@
 </p>
 
 
-<p align="center">
+<h1 align="center">
   Open‑Source Contribution : NPM Developer.
-</p>
+</h1>
 
 🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
 <p>BACKEND ENTHUSIASTIC</p> 
