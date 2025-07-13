@@ -10,7 +10,8 @@
 
 
 <h1 align="center">
-  Open‑Source Contribution : NPM Developer.
+  Open‑Source Contribution : NPM Package .
+  
 </h1>
 
 🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
