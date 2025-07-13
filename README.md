@@ -9,17 +9,27 @@
 </p>
 
 <p align="center">
-  Full‑Stack Developer: REACT • NODE • EXPRESS • MONGODB • Next.js • REST API . <br/>
-  Mobile Development  : React Native .<br/>
   Open‑Source Contribution :  NPM  Developer .
 </p>
 
-🔭 Currently building full‑stack apps with Next.js, MERN .  
-🌱 Learning advanced TypeScript.  
-💬 Ask me about  HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, NODE, EXPRESS, MONGODB, Next.js, REST API, JAVA
-<p>Deployment (Netlify/Render/Vercel)<p>  
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/niranjan-cse/) 
-  [LeetCode](https://leetcode.com/u/niranjancse2023/) • GitHub
+🔭 Currently building full‑stack apps with Next.js, MERN Stack .  
+<p>
+Learning FULL - STACK / TYPE SCRIPT.  
+</p> 
+<p>
+Full Stack Dev : NEXT JS.
+</p>
+<p>
+ Front End Dev  : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT
+</p>
+<p>
+ Back End Dev   : JAVA, NODE, EXPRESS, MONGODB, REST API
+</p>
+ <p>
+   Deployment (Netlify/Render/Vercel)
+<p>  
+📫 Connect with me:<p>[LinkedIn](https://www.linkedin.com/in/niranjan-cse/)</p>
+<p>[LeetCode](https://leetcode.com/u/niranjancse2023/) • GitHub</p>
 
 ---
 
