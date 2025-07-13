@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=I%20am%20%20Stoic&animation=fadeIn&type=waving&color=white&height=120" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?text=I%20am%20Stoic&animation=fadeIn&type=waving&color=0:FF0000,100:800000&fontColor=FFFFFF&height=120" alt="header"/>
 </p>
+
 
 <h1 align="center">Hi, I’m NIRANJAN 👋</h1>
 
