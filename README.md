@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niranjan20rc&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niranjan20rc&style=flat-square&color=red" alt="Profile views"/>
+</p>
 
 <p align="center">
   Open‑Source Contribution : NPM Developer.
