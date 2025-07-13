@@ -13,7 +13,7 @@
   Open‑Source Contribution : NPM Package .
   
 </h1>
-## 🚀 My Project
+🚀 My Project
 
 <h3> URL SHORTNER USING NEXT JS<h3/>
  <p> 🔗 View Demo https://ns-url.vercel.app </p> 
