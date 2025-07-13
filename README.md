@@ -15,9 +15,8 @@
 </h1>
 ## 🚀 My Project
 
-Here’s a link to check out the project demo:
+<h1> URL SHORTNER USING NEXT JS [🔗 View Demo](https://ns-url.vercel.app/) </h1>
 
-[🔗 View Demo](https://ns-url.vercel.app/)
 
 
 🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
