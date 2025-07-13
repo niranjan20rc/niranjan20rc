@@ -14,7 +14,7 @@
 
 🔭 Currently building full‑stack apps with Next.js, MERN Stack .  
 <p>
-Learning FULL - STACK / TYPE SCRIPT.  
+BACKEND ENTHUIASTIC
 </p> 
 <p>
 Full Stack Dev : NEXT JS.
