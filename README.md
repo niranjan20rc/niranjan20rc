@@ -17,7 +17,7 @@
 
 <h3> URL SHORTNER USING NEXT JS<h3/>
  <p> 🔗 View Demo https://ns-url.vercel.app </h3>p> 
-
+<br/>
 <p></p>
 
 🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
