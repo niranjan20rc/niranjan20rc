@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,postgresql,nextjs,vercel&theme=light" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgresql,nextjs,vercel&theme=light" alt="Tech Stack Icons"/>
 </p>
 
 ---
