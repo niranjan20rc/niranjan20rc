@@ -21,15 +21,15 @@
 **URL Shortener (Next.js)**  
 🔗 [Live Demo](https://ns-url.vercel.app)
 
-💻 Currently building full‑stack apps with Next.js & MERN  
-🎯 Enthusiastic about backend development (Java, Node.js, Express, MongoDB)
+💻 Expert in  REACT, NODE, EXPRESS, MONGO DB, POSTGRE SQL,NEXT js, REACT NATIVE.  
+🎯 Enthusiastic about backend development (Java, Node.js, Express, MongoDB, POSTGRE SQL)
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs&theme=light" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,nextjs,vercel,postgresql&theme=light" alt="Tech Stack Icons"/>
 </p>
 
 ---
