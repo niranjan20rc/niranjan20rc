@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=I'm%20STOIC&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=%20STOIC&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
 
 # <p align="center">Hi, I'm NIRANJAN 👋</p>
