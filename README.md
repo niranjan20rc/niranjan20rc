@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=I'm%20STOIC&fontColor=FFFFFF&animation=fadeIn" alt="header"/>
 </p>
 
-# <p align="center">Hola, Amigos I'm NIRANJAN 👋</p>
+# <p align="center">Hi, I'm NIRANJAN 👋</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niranjan20rc&style=flat-square&color=blue" alt="Profile views"/>
