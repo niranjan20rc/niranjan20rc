@@ -16,6 +16,8 @@
 
 ---
 
+<h4>My Tech Partner: <a href="https://github.com/MohamedRilwanJ"><span>Rilwan<span></a></h4>
+
 ## 🚀 Projects & Current Focus
 
 <p>
