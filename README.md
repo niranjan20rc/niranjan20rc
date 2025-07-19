@@ -33,10 +33,6 @@
  HTML cloud Deploy  
 🔗 [Live Link](https://html-cloud.netlify.app)
 </p>
-<p>
- Text-To-Speech AI 
-🔗 [Live Link](https://speech-to-text-ai-project.netlify.app)
-</p>
 
 💻 Expert in  REACT, NODE, EXPRESS, MONGO DB, POSTGRE SQL,NEXT js, REACT NATIVE.  
 🎯 Enthusiastic about backend development (Java, Node.js, Express, MongoDB, POSTGRE SQL)
