@@ -16,10 +16,19 @@
 </h1>
 🚀 My Project
 
-<h3> URL SHORTNER USING NEXT JS<h3/>
- <p> 🔗 View Demo https://ns-url.vercel.app </p> 
-<br/>
-<p></p>
+<p>
+ Visit my Portfolio  
+🔗 [Live Link](https://niranjan-port.netlify.app)
+</p>
+</p>
+<p>
+ URL Shortner 
+🔗 [Live Link](https://ns-url.vercel.app/)
+</p>
+<p>
+ HTML cloud Deploy  
+🔗 [Live Link](https://html-cloud.netlify.app)
+</p>
 
 🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
 <p>BACKEND ENTHUSIASTIC</p> 
