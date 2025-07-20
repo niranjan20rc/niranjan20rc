@@ -16,7 +16,7 @@
 <h4 align="center">My Tech Partner: <a href="https://github.com/MohamedRilwanJ"><span>Rilwan<span></a></h4>
 
 
-🚀 My Project
+🚀 My Projects
 
 <p>
  Visit my Portfolio  
