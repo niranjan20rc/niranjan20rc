@@ -12,30 +12,33 @@
 
 <h1 align="center">
   Open‑Source Contributor
-  
 </h1>
+<p></p>
+
 🚀 My Project
 
 <p>
  Visit my Portfolio  
 🔗 [Live Link](https://niranjan-port.netlify.app)
 </p>
-</p>
+
+
 <p>
  URL Shortner 
 🔗 [Live Link](https://ns-url.vercel.app/)
 </p>
+
 <p>
  HTML cloud Deploy  
 🔗 [Live Link](https://html-cloud.netlify.app)
 </p>
+<br/>
 
-🔭 Currently building Full‑stack apps with Next.js, MERN Stack.  
 <p>BACKEND ENTHUSIASTIC</p> 
 <p>Full Stack Dev : NEXT JS.</p>
-<p>Front End Dev : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT.</p>
-<p>Back End Dev : JAVA, NODE, EXPRESS, MONGO DB, REST API.</p>
-<p>DEPLOYMENT : GITHUB, VERCEL, NETLIFY, RENDER.</p>
+<p>Front End Dev  : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT.</p>
+<p>Back End Dev   : JAVA, NODE, EXPRESS, MONGO DB, REST API.</p>
+<p>Deployment     : GITHUB, VERCEL, NETLIFY, RENDER.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjan-cse/" target="_blank">
