@@ -11,7 +11,7 @@
 
 
 <h1 align="center">
-  Open‑Source Contributor<a href="https://www.npmjs.com/package/get-randomizer">-></a>
+  Open‑Source Contributor<a href="https://www.npmjs.com/package/get-randomizer"> show </a>
 </h1>
 <p></p>
 
