@@ -35,10 +35,10 @@
 <br/>
 
 <p>BACKEND ENTHUSIASTIC</p> 
-<p>Full Stack Dev : NEXT JS.</p>
-<p>Front End Dev  : HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT.</p>
-<p>Back End Dev   : JAVA, NODE, EXPRESS, MONGO DB, REST API.</p>
-<p>Deployment     : GITHUB, VERCEL, NETLIFY, RENDER.</p>
+<p>Full Stack Dev : Next.js.</p>
+<p>Front End Dev  : HTML, CSS, Javascript, Typescript, React.</p>
+<p>Back End Dev   : Java, Node.js, Express.js, Mongo DB, REST API.</p>
+<p>Deployment     : Github, Vercel, Netlify, Render.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjan-cse/" target="_blank">
@@ -61,9 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=niranjan20rc&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan20rc&theme=radical" alt="GitHub Streak"/>
 </p>
-
-## 📫 Let’s Connect
-
-
- LinkedIn | [linkedin.com/in/niranjan-cse](https://www.linkedin.com/in/niranjan-cse/) 
- LeetCode | [leetcode.com/u/niranjancse2023](https://leetcode.com/u/niranjancse2023/)
