@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  Open‑Source Contributor<a href="https://www.npmjs.com/package/get-randomizer"><span>show more</span> </a>
+  Open‑Source Contribution <a href="https://www.npmjs.com/package/get-randomizer"><span>show more</span> </a>
 </div>
 <p></p>
 <h4 align="center">My Tech Partner: <a href="https://github.com/MohamedRilwanJ"><span>Rilwan<span></a></h4>
