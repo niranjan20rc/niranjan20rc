@@ -14,6 +14,8 @@
   Open‑Source Contributor<a href="https://www.npmjs.com/package/get-randomizer"> show </a>
 </h1>
 <p></p>
+<h4>My Tech Partner: <a href="https://github.com/MohamedRilwanJ"><span>Rilwan<span></a></h4>
+
 
 🚀 My Project
 
