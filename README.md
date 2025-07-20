@@ -38,6 +38,7 @@
 <p>Full Stack Dev : Next.js.</p>
 <p>Front End Dev  : HTML, CSS, Javascript, Typescript, React.</p>
 <p>Back End Dev   : Java, Node.js, Express.js, Mongo DB, REST API.</p>
+<p>Mobile Dev     : React Native</p>
 <p>Deployment     : Github, Vercel, Netlify, Render.</p>
 
 <p align="center">
