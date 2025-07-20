@@ -56,8 +56,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,postgresql,nextjs,netlify,vercel&theme=light" alt="Skill Icons"/>
 </p>
-## Leetcode
-![Leetcode Stats](https://leetcode.com/u/niranjancse2023//<Niranjan>)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/niranjancse2023)](https://leetcode.com/niranjancse2023)
 
 
 ## 📊 GitHub Stats
