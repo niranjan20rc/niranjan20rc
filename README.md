@@ -19,18 +19,18 @@
 
 <p>
  Visit my Portfolio  
-🔗 (https://niranjan-port.netlify.app)
+🔗 https://niranjan-port.netlify.app
 </p>
 
 
 <p>
  URL Shortner 
-🔗 (https://ns-url.vercel.app/)
+🔗 https://ns-url.vercel.app
 </p>
 
 <p>
- HTML cloud Deploy  
-🔗 (https://html-cloud.netlify.app)
+ HTML  Deployment  
+🔗 https://html-cloud.netlify.app
 </p>
 <br/>
 
