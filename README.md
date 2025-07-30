@@ -29,7 +29,7 @@
 </p>
 
 <p>
- HTML  Deployment  
+ Static Web Deployment  
 🔗 https://html-cloud.netlify.app
 </p>
 <br/>
