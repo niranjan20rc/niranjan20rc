@@ -20,17 +20,17 @@
 
 <p>
  Visit my Portfolio  
-🔗 https://niranjan-port.netlify.app
+ https://niranjan-port.netlify.app
 </p>
 
 <p>
  URL Shortner 
-🔗 https://ns-url.vercel.app
+ https://ns-url.vercel.app
 </p>
 
 <p>
  Static Web Deployment  
-🔗 https://html-cloud.netlify.app
+ https://html-cloud.netlify.app
 </p>
 <br/>
 
