@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=%20%20STOIC&animation=fadeIn&type=waving&color=0:FF0000,100:800000&fontColor=FFFFFF&height=120" alt="header"/>
 </p>
 
@@ -17,7 +17,7 @@
 
 
 
-<h2> See My Projects </h2>
+<h2> 💻 See My Projects </h2>
 
 <p>
  Visit my Portfolio  
