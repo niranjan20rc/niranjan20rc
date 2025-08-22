@@ -25,7 +25,11 @@
 </p>
 <p>
  MERN IMAGE _DB  
- https://mern-image-db.vercel.app/
+ https://mern-image-db.vercel.app
+</p>
+<p>
+ NEXT.js CRUD   
+ https://zod-alpha.vercel.app
 </p>
 
 <p>
