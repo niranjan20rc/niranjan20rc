@@ -69,6 +69,15 @@ https://doc-reader-pro.vercel.app
 
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -85,15 +94,7 @@ https://doc-reader-pro.vercel.app
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ## 📊 GitHub Stats
 
 <p align="center">
