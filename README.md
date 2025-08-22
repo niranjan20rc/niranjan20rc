@@ -75,8 +75,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan20rc&theme=radical" alt="GitHub Streak"/>
 </p>
 
+![My Image](https://mern-inage-db.onrender.com/images/68a8ad3f0129e44098d48088/view)
 
-<img src="https://mern-inage-db.onrender.com/images/68a8ad3f0129e44098d48088/download"></img>
 
 
 
