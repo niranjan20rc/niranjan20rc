@@ -11,7 +11,7 @@
 <h3 align="center">
   Open‑Source Contribution <a href="http://npmjs.com/package/easy-react-pro"><span>visit</span> </a>
 </h3>
-  <h2 align="center"> Try This Cmd for Fast React Setup <a href="https://www.npmjs.com/package/easy-react-pro">npx easy-react-pro  "your_project_name"</a>
+  <h2 align="center"> Try This Cmd for Fast React Setup <a href="https://www.npmjs.com/package/easy-react-pro">npx easy-react-pro  "project_name"</a>
   </h2>
 
 
