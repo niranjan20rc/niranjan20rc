@@ -11,9 +11,9 @@
 
 <h3 align="center">
   Open‑Source Contribution <a href="http://npmjs.com/package/easy-react-pro"><span>visit</span> </a>
-</h3>
-  <h2 align="center"> Try This Cmd for Fast React Setup <a href="https://www.npmjs.com/package/easy-react-pro">npx easy-react-pro  "project_name"</a>
-  </h2>
+</h3>\
+
+![My Image](https://mern-inage-db.onrender.com/images/68a8aecb0129e44098d48091/view)
 
 
 
@@ -74,8 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=niranjan20rc&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan20rc&theme=radical" alt="GitHub Streak"/>
 </p>
-
-![My Image](https://mern-inage-db.onrender.com/images/68a8aecb0129e44098d48091/view)
 
 
 
