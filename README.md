@@ -24,7 +24,7 @@
  https://niranjan-port.netlify.app
 </p>
 <p>
- NEXT.JS  PDF READER 
+ NEXT. JS  PDF READER 
 https://doc-reader-pro.vercel.app 
 </p>
 <p>
@@ -32,11 +32,11 @@ https://doc-reader-pro.vercel.app
  https://mern-image-db.vercel.app
 </p>
 <p>
- NEXT.js CRUD   
+ NEXT. JS CRUD   
  https://zod-alpha.vercel.app
 </p>
 <p>
-  TEXT-2-PDF  NEXT.js    
+  TEXT-2-PDF  NEXT. JS    
  https://text-2-pdf.vercel.app
 </p>
 
