@@ -42,7 +42,7 @@ https://doc-reader-pro.vercel.app
 
 <p>
  URL Shortner 
- https://ns-url.vercel.app
+ https://zod-url.vercel.app
 </p> 
 
 <p>
