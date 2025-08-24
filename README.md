@@ -11,7 +11,7 @@
 
 <h3 align="center">
   Open‑Source Contribution <a href="http://npmjs.com/package/easy-react-pro"><span>visit</span> </a>
-</h3>\
+</h3>
 
 ![My Image](https://mern-inage-db.onrender.com/images/68a8aecb0129e44098d48091/view)
 
