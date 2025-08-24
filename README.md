@@ -1,8 +1,6 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=%20%20STOIC&animation=fadeIn&type=waving&color=0:FF0000,100:800000&fontColor=FFFFFF&height=120" alt="header"/>
 </p>
-
-
 <h1 align="center">Hi, I’m NIRANJAN 👋</h1>
 
 <p align="center">
