@@ -72,7 +72,7 @@ https://doc-reader-pro.vercel.app
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,postgresql,nextjs,netlify,vercel&theme=light" alt="Skill Icons"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,flutter,dart,nodejs,express,mongodb,postgresql,netlify,vercel&theme=light" alt="Skill Icons"/>
 </p>
 
 ## 📊 GitHub Stats
