@@ -60,14 +60,18 @@ https://doc-reader-pro.vercel.app
 <table  align="center">
   <tr>
     
-        🇺🇦 Tamil - Native
+        🇺🇦 Tamil 
         
   </tr>
 
   <tr>
     
-        🇬🇧 English - Intermediate
-        
+        🇬🇧 English         
+  </tr>
+
+  <tr>
+    
+        🇬🇧 Arabic         
   </tr>
 
 </table>
