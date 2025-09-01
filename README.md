@@ -30,9 +30,7 @@
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44"/><br>Node.js
     </td>
-    <td align="center" width="88">
-      <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" width="44" height="44"/><br>REST API
-    </td>
+<tr></tr>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44"/><br>Express.js
     </td>
@@ -44,9 +42,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44"/><br>React Native
-    </td>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="44" height="44"/><br>Flutter
     </td>
