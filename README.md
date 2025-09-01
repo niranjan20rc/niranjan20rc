@@ -71,7 +71,7 @@ https://doc-reader-pro.vercel.app
 
   <tr>
     
-        🇬🇧 Arabic         
+        🇬🇧 Swedish         
   </tr>
 
 </table>
