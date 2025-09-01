@@ -11,9 +11,9 @@
 
 ![My Image](https://mern-inage-db.onrender.com/images/68a8aecb0129e44098d48091/view)
 
+### About Me :
 
-<h3>How To Reach ME</h3>
-<p>niranjanrc20@gmail.com</p>
+Passionate Programmer | Indie Developer | WEB / APP Developer
 
 
 <h2> 💻 See My Projects </h2>
