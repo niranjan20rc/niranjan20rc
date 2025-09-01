@@ -23,71 +23,40 @@
 
 
 <h2> 💻 See My Projects </h2>
-
-<p>
- Visit my Portfolio  
- https://niranjan-port.netlify.app
-</p>
-<p>
- NEXT. JS  PDF READER 
-https://doc-reader-pro.vercel.app 
-</p>
-<p>
- MERN IMAGE _DB  
- https://mern-image-db.vercel.app
-</p>
-<p>
- NEXT. JS CRUD   
- https://zod-alpha.vercel.app
-</p>
-<p>
-  TEXT-2-PDF  NEXT. JS    
- https://text-2-pdf.vercel.app
-</p>
-
-<p>
- URL Shortner 
- https://zod-url.vercel.app
-</p> 
-
-<p>
- Static Web Deployment  
- https://html-cloud.netlify.app
-</p>
 <br/>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table  align="center">
   <tr>
    
-         https://niranjan-port.netlify.app 
+    https://niranjan-port.netlify.app 
   
   </tr>
   <tr>
    
-      https://doc-reader-pro.vercel.app 
+    https://doc-reader-pro.vercel.app 
   
   </tr>
 
   <tr>
 
    
-     https://mern-image-db.vercel.app     
+    https://mern-image-db.vercel.app     
   
   </tr>
   <tr>  
          
-     https://text-2-pdf.vercel.app
+    https://text-2-pdf.vercel.app
   
   </tr>
   </tr>
   <tr>  
    
-         https://zod-url.vercel.app
+    https://zod-url.vercel.app
   </tr>
   <tr>  
    
-     https://html-cloud.netlify.app
+    https://html-cloud.netlify.app
   </tr>
 
 </table>
