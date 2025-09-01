@@ -71,11 +71,11 @@ https://doc-reader-pro.vercel.app
 
   <tr>
     
-        🇬🇧 Swedish         
+        🇬🇧 Russian         
   </tr>
   <tr>
     
-        🇬🇧 Finnish         
+        🇬🇧 Arabic         
   </tr>
 
 </table>
