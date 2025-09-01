@@ -70,11 +70,6 @@ https://doc-reader-pro.vercel.app
         
   </tr>
 
-  <tr>
-    
-        🇬🇧 Arabic  - Begginer
-        
-  </tr>
 </table>
 </div>
 
