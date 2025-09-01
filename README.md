@@ -12,6 +12,9 @@
 ![My Image](https://mern-inage-db.onrender.com/images/68a8aecb0129e44098d48091/view)
 
 
+<h3>How To Reach ME</h3>
+<p><a mailto:niranjanrc20@gmail.com></a></p>
+
 
 <h2> 💻 See My Projects </h2>
 <br/>
