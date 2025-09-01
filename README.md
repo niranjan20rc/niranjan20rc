@@ -13,7 +13,7 @@
 
 
 <h3>How To Reach ME</h3>
-<p> mailto:niranjanrc20@gmail.com</p>
+<p>niranjanrc20@gmail.com</p>
 
 
 <h2> 💻 See My Projects </h2>
