@@ -73,6 +73,10 @@ https://doc-reader-pro.vercel.app
     
         🇬🇧 Swedish         
   </tr>
+  <tr>
+    
+        🇬🇧 Finnish         
+  </tr>
 
 </table>
 </div>
