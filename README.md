@@ -56,12 +56,27 @@ https://doc-reader-pro.vercel.app
 </p>
 <br/>
 
-<p>BACKEND ENTHUSIASTIC</p> 
-<p>Full Stack Dev : Next.js .</p>
-<p>Front End Dev  : HTML, CSS, Javascript, Typescript, Tailwind CSS, React .</p>
-<p>Back End Dev   : Java, Node.js, Express.js, Mongo DB, Postgre SQL, REST API .</p>
-<p>Mobile Dev     : React Native .</p>
-<p>Deployment     : Github, Vercel, Netlify, Render .</p>
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Tamil - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Intermediate
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 Arabic  - Begginer
+        
+  </tr>
+</table>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjan-cse/" target="_blank">
