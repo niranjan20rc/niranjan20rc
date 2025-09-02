@@ -125,7 +125,7 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
 
 
 
-### ⚡ Technical Skills
+### ⚡ Technologies I had Worked
 
 | **Category** | **Skills** |
 |--------------|------------|
