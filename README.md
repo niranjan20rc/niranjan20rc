@@ -134,7 +134,7 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
 | Frontend     | React.js, Next.js, Angular.js, Vue.js, Nuxt.js, Solid.js, Ember.js |
 | Backend      | Node.js, Express.js, GOLang, SpringBoot |
 | Databases    | MongoDB, PostgreSQL, Redis, MySql |
-| UI / Styling | Tailwind CSS, CSS3, HTML5, BootStrap, Material UI, Chalk UI, Chakara UI |
+| UI / Styling | HTML5, CSS, Tailwind CSS, BootStrap, Material UI, Chalk UI, Chakara UI |
 | Mobile       | Flutter, React Native, Native Script, Lynx |
 | Others       | Vercel, Render, Netlify |
 
