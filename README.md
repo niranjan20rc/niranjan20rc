@@ -32,7 +32,6 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
     https://doc-reader-pro.vercel.app 
   
   </tr>
-
   <tr>
 
    
@@ -123,6 +122,22 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
     </td>
   </tr>
 </table>
+
+
+
+### ⚡ Technical Skills
+
+| **Category** | **Skills** |
+|--------------|------------|
+| Programming  | Java, GO, Dart,  JavaScript, TypeScript |
+| Frontend     | React.js, Next.js, Angular.js |
+| Backend      | Node.js, Express.js, GOLang |
+| Databases    | MongoDB, PostgreSQL, Redis |
+| UI / Styling | Tailwind CSS, CSS3, HTML5 |
+| Mobile       | Flutter, React Native |
+| Others       | Vercel, Render, Netlify |
+
+
 
 
 ## 📊 GitHub Stats
