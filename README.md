@@ -125,16 +125,16 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
 
 
 
-### ⚡ Technologies I had Worked
+### ⚡ Technologies I had Worked and Explored
 
 | **Category** | **Skills** |
 |--------------|------------|
-| Programming  | Java, GO, Dart,  JavaScript, TypeScript |
-| Frontend     | React.js, Next.js, Angular.js |
-| Backend      | Node.js, Express.js, GOLang |
-| Databases    | MongoDB, PostgreSQL, Redis |
-| UI / Styling | Tailwind CSS, CSS3, HTML5 |
-| Mobile       | Flutter, React Native |
+| Programming  | Java, GO, Dart, JavaScript, TypeScript, Swift, Kotlin, C, C++, C# |
+| Frontend     | React.js, Next.js, Angular.js, Vue.js, Nuxt.js, Solid.js, Ember.js |
+| Backend      | Node.js, Express.js, GOLang, SpringBoot |
+| Databases    | MongoDB, PostgreSQL, Redis, MySql |
+| UI / Styling | Tailwind CSS, CSS3, HTML5, BootStrap, Material UI, Chalk UI, Chakara UI |
+| Mobile       | Flutter, React Native, Native Script, Lynx |
 | Others       | Vercel, Render, Netlify |
 
 
