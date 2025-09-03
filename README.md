@@ -4,7 +4,7 @@
 </p>
 
 
-s
+
 
 <h3 align="center">
   Open‑Source Contribution <a href="http://npmjs.com/package/easy-react-pro"><span>visit</span> </a>
