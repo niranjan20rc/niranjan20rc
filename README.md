@@ -18,44 +18,8 @@
 Passionate Programmer | Indie Developer | WEB / APP Developer
 
 
-<h2> 💻 See My Projects </h2>
-<br/>
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table  align="center">
-  <tr>
-   
-    https://niranjan-port.netlify.app 
-  
-  </tr>
-  <tr>
-   
-    https://doc-reader-pro.vercel.app 
-  
-  </tr>
-  <tr>
 
-   
-    https://mern-image-db.vercel.app     
-  
-  </tr>
-  <tr>  
-         
-    https://text-2-pdf.vercel.app
-  
-  </tr>
-  </tr>
-  <tr>  
-   
-    https://zod-url.vercel.app
-  </tr>
-  <tr>  
-   
-    https://html-cloud.netlify.app
-  </tr>
-
-</table>
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjan-cse/" target="_blank">
