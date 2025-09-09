@@ -91,7 +91,7 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
 
 | **Category** | **Skills** |
 |--------------|------------|
-| Programming  | Java, GO, Dart, JavaScript, TypeScript, Swift, Kotlin, C, C++, C# |
+| Programming  | Java, GO Lang, Dart, JavaScript, TypeScript, Swift, Kotlin, C, C++, C# |
 | Frontend     | React.js, Next.js, Angular.js, Vue.js, Nuxt.js, Solid.js, Ember.js |
 | Backend      | Node.js, Express.js, GOLang, SpringBoot |
 | Databases    | MongoDB, PostgreSQL, Redis, MySql |
