@@ -57,10 +57,7 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44"/><br>React.js
     </td>
   </tr>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="44" height="44"/><br>Angular
-    </td>
-    <td align="center" width="88">
+     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44"/><br>Tailwind CSS
     </td>
     <td align="center" width="88">
@@ -71,9 +68,6 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
     </td>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44"/><br>MongoDB
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44"/><br>PostgreSQL
     </td>
     <td align="center" width="88">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="44" height="44"/><br>Flutter
