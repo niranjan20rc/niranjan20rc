@@ -5,7 +5,6 @@
 
 
 
-
 <h1 align="center">
   Medium Account <a href="https://medium.com/@niranjanrc20"><span>visit</span> </a>
 </h1>
