@@ -1,9 +1,7 @@
  <h1 align="center">Hi, There I’m NIRANJAN 👋</h1> 
- 
 <p align="center">      
   <img  src="https://komarev.com/ghpvc/?username=niranjan20rc&style=flat-square&color=blue" alt="Profile views"/>   
 </p>      
-
 <h1 align="center">      
     Medium Account <a href="https://medium.com/@niranjanrc20"><span>visit</span> </a>
 </h1>  
