@@ -5,7 +5,7 @@
 </p>                                                                
                                                                                                 
 <h1 align="center">               
-    Medium Account<a href="https://medium.com/@niranjanrc20"><span>Viit</span> </a>   
+    Medium Account<a href="https://medium.com/@niranjanrc20"><span>Visit</span> </a>   
 </h1>                  
                                      
 <h3 align="center">    
