@@ -20,7 +20,6 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
   <a href="https://www.linkedin.com/in/niranjan-cse/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-
     <a href="https://leetcode.com/u/niranjancse2023/" target="_blank">
      <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode&style=for-the-badge" alt="LeetCode"/>
   </a>
