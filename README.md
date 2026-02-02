@@ -16,7 +16,7 @@
 
 Passionate Programmer | Indie Developer | WEB / APP Developer
 
-<p align="center">
+<p align="center"> 
   <a href="https://www.linkedin.com/in/niranjan-cse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
