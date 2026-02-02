@@ -41,7 +41,7 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
     </td>
        
   <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44"/><br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44"/><br>CSS
     </td>
     
   <td align="center" width="88">
