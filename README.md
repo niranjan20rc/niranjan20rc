@@ -8,7 +8,7 @@
     Medium Account <a href="https://medium.com/@niranjanrc20"><span>Visit</span> </a>   
 </h1>                  
                                      
-<h3 align="center">     
+<h3 align="center">      
   Open‑Source<a href="http://npmjs.com/package/easy-react-pro"><span>visit</span> </a>   
 </h3>    
    
