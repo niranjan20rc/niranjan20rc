@@ -24,9 +24,6 @@ Passionate Programmer | Indie Developer | WEB / APP Developer
   </a>
 </p>
 
-
-
-
 ### ⚡ Technical Skills
 <table align="center">
   <tr>
